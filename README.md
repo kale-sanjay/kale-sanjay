@@ -14,7 +14,7 @@
             — Sir M. Visvesvaraya</p>
         </blockquote>
         <p>Welcome to <strong>VisvesvarayaCode</strong>, a <strong>Full-Stack Java Development</strong> repository inspired by the legendary Indian engineer <strong>Sir M. Visvesvaraya</strong>. This repo is a hub for <strong>enterprise-grade backend solutions, dynamic web applications, and database-driven projects</strong> using modern Java technologies.</p>
-        <img src="https://github.com/kale-sanjay/kale-sanjay/blob/main/cover1.png" alt="Cover Image">
+        <img src="https://github.com/kale-sanjay/kale-sanjay/blob/main/cover%20(1).png" alt="Cover Image">
          <h2>🖥️ Frontend</h2>
           <img class="badge" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
             <img class="badge" src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3" alt="CSS">
