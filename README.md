@@ -1,6 +1,6 @@
 ![logo](https://github.com/Sanjaykale1995/sanjaykale1995/blob/main/Blue%20and%20Green%20Modern%20Medical%20Professional%20LinkedIn%20Banner.jpg)
 <h1 align="center">Hi 👋, I'm Sanjay kale</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">🚀 Passionate about building scalable and efficient solutions  </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
